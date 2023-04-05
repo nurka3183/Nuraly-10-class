@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://nurka3183:<MpF4BuKGyPpRAwz>@uveck1.qutagry.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key",
+  "filePath": "C:\\Users\\w\\WebstormProjects\\Nuraly-10-class\\server\\files"
+}
