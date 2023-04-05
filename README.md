@@ -1,1 +1,0 @@
-# Nuraly-10-class
